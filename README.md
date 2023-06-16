@@ -1,11 +1,11 @@
-About r-cliapp
-==============
+About r-cliapp-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cliapp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/cliapp#readme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cliapp-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create rich command line applications, with colors, headings, lists, alerts, progress bars, etc. It uses CSS for custom themes.
 
