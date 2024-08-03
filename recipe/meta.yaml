@@ -1,6 +1,5 @@
 {% set version = "0.1.2" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-cliapp
@@ -13,8 +12,7 @@ source:
   sha256: cbedc98c27a9b94db1a48627a74acce53a337408ff626875d109d51ca9824a79
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
